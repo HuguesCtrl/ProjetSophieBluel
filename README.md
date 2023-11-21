@@ -5,4 +5,4 @@
 **Site multi-pages responsive** 
 Utilisation de JS pour créer un espace administrateur et pour contacter le back-end.
 
-Lien du site: 
+Lien du front-end: https://huguesctrl.github.io/ProjetSophieBluel/
