@@ -5,6 +5,4 @@
 **Site multi-pages responsive** 
 Utilisation de JS pour créer un espace administrateur et pour contacter le back-end.
 
-Lien du site: https://huguesctrl.github.io/LandingPageSass/
-# ProjetSophieBluel
-# ProjetSophieBluel
+Lien du site: 
